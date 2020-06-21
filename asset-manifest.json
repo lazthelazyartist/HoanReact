@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/HoanReact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/HoanReact/static/js/main.cf680e3e.chunk.js",
-    "main.js.map": "/HoanReact/static/js/main.cf680e3e.chunk.js.map",
-    "runtime-main.js": "/HoanReact/static/js/runtime-main.f78cf059.js",
-    "runtime-main.js.map": "/HoanReact/static/js/runtime-main.f78cf059.js.map",
-    "static/js/2.8c5e0a00.chunk.js": "/HoanReact/static/js/2.8c5e0a00.chunk.js",
-    "static/js/2.8c5e0a00.chunk.js.map": "/HoanReact/static/js/2.8c5e0a00.chunk.js.map",
-    "index.html": "/HoanReact/index.html",
-    "precache-manifest.bfa88919d8cc538a316d1d46a3a825af.js": "/HoanReact/precache-manifest.bfa88919d8cc538a316d1d46a3a825af.js",
-    "service-worker.js": "/HoanReact/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/HoanReact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8c5e0a00.chunk.js.LICENSE.txt": "/HoanReact/static/js/2.8c5e0a00.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/HoanReact/static/media/logo.5d5d9eef.svg"
+    "main.css": "/hoan-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hoan-react/static/js/main.13ae7d22.chunk.js",
+    "main.js.map": "/hoan-react/static/js/main.13ae7d22.chunk.js.map",
+    "runtime-main.js": "/hoan-react/static/js/runtime-main.82a22174.js",
+    "runtime-main.js.map": "/hoan-react/static/js/runtime-main.82a22174.js.map",
+    "static/js/2.8c5e0a00.chunk.js": "/hoan-react/static/js/2.8c5e0a00.chunk.js",
+    "static/js/2.8c5e0a00.chunk.js.map": "/hoan-react/static/js/2.8c5e0a00.chunk.js.map",
+    "index.html": "/hoan-react/index.html",
+    "precache-manifest.e61550d1226e7ded502c20d5f0810aef.js": "/hoan-react/precache-manifest.e61550d1226e7ded502c20d5f0810aef.js",
+    "service-worker.js": "/hoan-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hoan-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8c5e0a00.chunk.js.LICENSE.txt": "/hoan-react/static/js/2.8c5e0a00.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hoan-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f78cf059.js",
+    "static/js/runtime-main.82a22174.js",
     "static/js/2.8c5e0a00.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cf680e3e.chunk.js"
+    "static/js/main.13ae7d22.chunk.js"
   ]
 }
